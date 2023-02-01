@@ -26,4 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husamfarajallah&show_icons=true&locale=en&layout=compact" alt="husamfarajallah" /></p>
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=husamFarajllah&theme=dark&hide_border=true&border_radius=10.5)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husamfarajallah&show_icons=true&locale=en" alt="husamfarajallah" /></p>
