@@ -6,7 +6,7 @@ Web Developer
 ------------------------------
 
 * 🌍  I'm based in Palestine
-* ✉️  You can contact me at [eng.husamfarajallah@gmail.com](mailto:eng.husamfarajallah@gmail.com)
+* ✉️  You can contact me at [mrhusamfa@gmail.com](mailto:mrhusamfa@gmail.com)
 * 🧠  I love to learning a new things
 * 🤝  I'm open to collaborating on Chat project
 
@@ -31,9 +31,6 @@ Web Developer
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.behance.com/mohammadalhabil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://discord.com/users/mohammadalhabil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mohammadalhabil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohammadalhabil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammadalhabil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/uxui_md" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
