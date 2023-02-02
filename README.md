@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/7samfa" target="blank"><img src="https://img.shields.io/twitter/follow/7samfa?logo=twitter&style=for-the-badge" alt="7samfa" /></a> </p>
 
-- 🔭 I’m currently working on **Tareeqy App**
-
-- 🌱 I’m currently learning **React Js**
+- 🔭 I’m currently working on **Fantsy Tech Team**
 
 - 💬 Ask me about **react , asp.net core**
 
