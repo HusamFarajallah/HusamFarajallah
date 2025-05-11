@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate full stack developer with a focus on building scalable web applications and modern user interfaces. With a strong foundation in both front-end and back-end technologies, I enjoy creating seamless and high-performance solutions.
+I'm a dedicated full stack developer with a passion for building robust, scalable web applications and modern, user-friendly interfaces. With solid expertise across both front-end and back-end technologies, I thrive on crafting clean, efficient, and high-performing solutions that deliver real value to users.
 
 ---
 
